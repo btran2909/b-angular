@@ -15,4 +15,4 @@ import { ButtonsComponent } from './buttons.component';
         ButtonsComponent
     ]
 })
-export class ButtonsModule { }
+export class BTButtonsModule { }

@@ -1,2 +1,2 @@
 export { ButtonsComponent } from './buttons.component';
-export { ButtonsModule } from './buttons.component.module';
+export { BTButtonsModule } from './buttons.module';
